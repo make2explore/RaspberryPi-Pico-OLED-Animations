@@ -26,14 +26,14 @@ In this tutorial. We've discussed..
 - **How to Write CircuitPython Program to Create Animations on OLED Display?** - 
 
 
-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
 
 ▶️ [Tutorial] Creating Animations on OLED Display interfaced with Raspberry Pi Pico  -  
 🔗 https://youtu.be/  
 
--------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
 🌐 Raspberry Pi Website - 🔗 https://www.raspberrypi.com/  
@@ -42,7 +42,7 @@ In this tutorial. We've discussed..
 📗 Arduino Create Agent  🔗 https://support.arduino.cc/hc/en-us/articles/  360014869820-Install-the-Arduino-Create-Agent  
 📒 Arduino Create agent installation page 🔗 https://create.arduino.cc/getting-started/plugin/welcome  
 
--------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 🔴 **Purchase Links** -  
 
@@ -50,7 +50,7 @@ In this tutorial. We've discussed..
 🛒 SSD1306 Monochrome OLED Display 💳 - 🔗 https://www.adafruit.com/product/326  
 🛒 SSD1306 Monochrome OLED Display  (🇮🇳) - 🔗 https://amzn.to/44HxmZ9  
 
--------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 📜 **Source Code, Circuit Diagrams and Documentation** :  
 
@@ -61,7 +61,7 @@ In this tutorial. We've discussed..
 🌐 Instructable Blog - 🔗 https://www.instructables.com/make2explore  
   
 
--------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
