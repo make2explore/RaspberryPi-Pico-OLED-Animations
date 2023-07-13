@@ -5,6 +5,7 @@ Creating Animations on SSD1306 Monochrome OLED Display Interfaced with Raspberry
 
   
 **Interfacing OLED Display with Raspberry Pi Pico**  
+  
 Components Required :  
 - Raspberry Pi Pico Board  
 - SSD1306 Monochrome OLED Display  
@@ -14,8 +15,9 @@ Components Required :
 Software Required :  
 - CircuitPython Latest Version  
 - Thonny IDE
+  
 
-In this tutorial. We've discussed..  
+**In this tutorial. We've discussed..**  
 - **Interfacing SSD1306 Monochrome OLED Display with Raspberry Pi Pico** - Procedure
 - **What is Circuit Python?** - Features, Libraries, How to Install
 - **Installing Circuitpython on Raspberry Pi Pico** - 
