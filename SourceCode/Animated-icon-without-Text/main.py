@@ -56,7 +56,7 @@ icon_grid = displayio.TileGrid(icon_bit, pixel_shader=icon_pal,
 group.append(icon_grid)
 
 
-# Displa SPRITE Sheet image 
+# Display SPRITE Sheet image 
 display.show(group)
 
 # Timer Variables
