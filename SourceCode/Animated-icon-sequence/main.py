@@ -1,7 +1,7 @@
 #================================== make2explore.com =================================#
 # Project/Tutorial   - Animations on SSD1306 Monochrome OLED Display interfaced
 #                      Raspberry Pi Pico
-# Version            - (Animation Without Text Label)
+# Version            - (Animation Without Text Label - Continous loop)
 # Created By         - info@make2explore.com
 # Last Modified      - 13/07/2023 04:30:00 @admin
 # Software           - CircuitPython 8.2.0, Thonny IDE 4.1, Pico Lib Bundle 8.x

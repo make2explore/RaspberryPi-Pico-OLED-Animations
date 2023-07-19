@@ -20,7 +20,7 @@ Software Required :
 **In this tutorial. We've discussed..**  
 - **Interfacing SSD1306 Monochrome OLED Display with Raspberry Pi Pico** - Procedure
 - **What is Circuit Python?** - Features, Libraries, How to Install
-- **Installing Circuitpython on Raspberry Pi Pico** - 
+- **Installing CircuitPython on Raspberry Pi Pico** - Theory and Demo
 - **What is an Animation?** - 
 - **How to Create Animation ?** - 
 - **What is SPRITE Sheet Image** - 
