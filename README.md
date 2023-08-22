@@ -33,7 +33,7 @@ Software Required :
 📕 **YouTube Video Links**  
 
 ▶️ [Tutorial] Creating Animations on OLED Display interfaced with Raspberry Pi Pico  -  
-🔗 https://youtu.be/  
+🔗 https://youtu.be/YMGYbmGxhP4  
 
 -------------------------------------------------------------------------------------------
 📒 **Important Links**  
